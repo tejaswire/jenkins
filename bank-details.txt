@@ -1,0 +1,4 @@
+git checkout four, git checkout main----to change the branch(main,master,four)
+git add bank-details.txt
+git commit -m "bank details added"
+git push origin four
